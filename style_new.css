@@ -1,0 +1,604 @@
+@font-face {
+    font-family: canelalight;
+    src: url(https://static1.squarespace.com/static/58d19d0ae4fcb57fb4bd9ed1/t/58d1b3531e5b6c1243a3c656/1490137939580/canelalight.otf) ;
+}
+
+@font-face {
+    font-family: futreg;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/5a69c7239140b716ad23f9de/1516881699331/futreg.otf) ;
+}
+
+@font-face {
+    font-family: lbr;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/5a22f82f652deacb418c3578/1512241199546/lbr.ttf) ;
+}
+
+@font-face {
+    font-family: canelathing;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/5a1c1a6624a694106db7f5fb/1511791207659/canelathin.otf) ;
+}
+
+@font-face {
+    font-family: maisonbook;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/5a03358ae2c48332b14ffe0a/1510159756430/maisonbook.otf) ;
+}
+
+@font-face {
+    font-family: clearface;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/59dcda9dcd0f68a14034e82f/1507646109929/clearface.ttf) ;
+}
+
+@font-face {
+    font-family: aperculight;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/5a033dfae2c48332b151d605/1510161915805/aperculight.otf) ;
+}
+
+
+@font-face {
+    font-family: sabonbold;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/5992eecb6a49634687edc750/1502801611981/sabonbold.ttf) ;
+}
+
+@font-face {
+    font-family: sabonr;
+    src: url(https://static1.squarespace.com/static/59654b5cd2b8570443c92706/t/59dbeb3264b05fea9d3c2db3/1507584818832/sabonr.ttf) ;
+}
+
+@font-face {
+    font-family: bluu;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/596b932bf14aa1a6e7075e3b/1500222251532/bluu.otf) ;
+}
+
+
+@font-face {
+    font-family: larish;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/59655819e58c628621dd1155/1499813913818/larish.otf) ;
+}
+
+@font-face {
+    font-family: larthin;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/593db130d482e99f137aa0e3/1497215280930/larthin.otf) ;
+}
+
+@font-face {
+    font-family: noe;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/593a88213a04117d5438f8a6/1497008161733/noe.otf) ;
+}
+
+@font-face {
+    font-family: maisonlight;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/593ece842e69cf11615d80a5/1497288325018/maisonlight.otf) ;
+}
+
+@font-face {
+    font-family: larlight;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/590239463a041184de8de941/1493317958770/larlight.otf) ;
+}
+
+@font-face {
+    font-family: akzrom;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/58ff5201e4fcb5ee3838ab02/1493127681749/akzrom.ttf) ;
+}
+
+@font-face {
+    font-family: akzlight;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/58fe36816b8f5bf31bd1bc6e/1493055106878/akzlight.otf) ;
+}
+
+@font-face {
+    font-family: aperculight;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/58fa3ad46a49637db3fdfd31/1492794068512/aperculight.otf) ;
+}
+
+@font-face {
+    font-family: walsh;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/5a05beaa24a694dfd63b668a/1510325930912/walsh.otf) ;
+}
+
+@font-face {
+    font-family: apercureg;
+    src: url(https://static1.squarespace.com/static/58fa3835e6f2e1f94229bb54/t/58fa3b81cd0f686256fa523b/1492794241294/apercureg.otf) ;
+}
+
+@font-face {
+    font-family: circbook;
+    src: url(https://static1.squarespace.com/static/58d19d0ae4fcb57fb4bd9ed1/t/58f8e7e63e00be093caec54e/1492707302673/circbook.otf) ;
+}
+
+@font-face {
+    font-family: canelamed;
+    src: url(https://static1.squarespace.com/static/58d19d0ae4fcb57fb4bd9ed1/t/58ebe1fae6f2e117958cf387/1491853818804/canelamed.otf) ;
+}
+
+@font-face {
+    font-family: canelabold;
+    src: url(https://static1.squarespace.com/static/58d19d0ae4fcb57fb4bd9ed1/t/58dd776e1b631b49937d7425/1490909039446/canelabold.otf) ;
+}
+
+@font-face {
+    font-family: canelathin;
+    src: url(https://static1.squarespace.com/static/58d19d0ae4fcb57fb4bd9ed1/t/58d28aca579fb3df6997fabe/1490193099008/canelathin.otf) ;
+}
+
+
+@font-face {
+    font-family: canelareg;
+    src: url(https://static1.squarespace.com/static/58d19d0ae4fcb57fb4bd9ed1/t/58d1b901bebafb90e07e260c/1490139393913/canelareg.otf) ;
+}
+
+@font-face {
+    font-family: canelathinitalic;
+    src: url(https://static1.squarespace.com/static/58d19d0ae4fcb57fb4bd9ed1/t/58d29a6d3a0411979fdbfb07/1490197101588/canelathinitalic.otf) ;
+}
+
+@font-face {
+    font-family: akzidenz;
+    src: url(https://static1.squarespace.com/static/51b9e283e4b03144c47b7ff5/t/57abd92c579fb3f849468d4f/1470880044953/akzidenz.ttf);
+}
+
+@font-face {
+    font-family: larsseit;
+    src: url(https://static1.squarespace.com/static/58d19d0ae4fcb57fb4bd9ed1/t/58d3e0cde58c62dead32de9c/1490280654882/larsseit.ttf) ;
+}
+
+ h1{
+   font-family: 'lbr' !important;    }
+
+ h3{
+   font-family: 'maisonlight' !important;    }
+
+ h2{
+   font-family: 'canelathin' !important;    }
+
+
+
+.Mobile-bar-branding {
+ 	   font-family: 'maisonlight'
+         !important;
+}
+
+img.summary-thumbnail-image.loaded:hover { opacity: 0.65;filter:alpha(opacity=60); }
+
+
+
+.Header-branding {
+ 	   font-family: 'lbr'
+         !important;
+}
+
+.Header-nav {
+ 	   font-family: 'maisonbook' !important;
+}
+
+
+body, p {
+   font-family: 'maisonlight'  !important;
+ }
+
+.summary-title-link {
+       font-size:16px
+ }
+
+ .summary-thumbnail { height: 1vw }
+
+ .sqs-block-summary-v2 .summary-block-setting-text-size-small .summary-excerpt p {
+   font-size: 14px;
+ }
+
+.homepage .nav-social-wrapper { display: none; }
+
+ .sqs-block-summary-v2 {
+   .summary-title,
+   .summary-heading {
+     font-family: "maisonlight";
+   }
+ }
+
+.Mobile-bar-branding {
+ 	   font-family: 'lbr'
+         !important;
+}
+
+ .sqs-active-slide {
+       opacity: 1 !important;
+ }
+
+/* ==============
+   INDEX SECTIONS
+   ============== */
+
+/* Background */
+#collection-59dc312d46c3c48d6778ef29, #collection-5a03214ff9619a62ab7ab279 {
+  background: ;
+}
+
+/* === HOME SECTION === */
+
+#hero-banner {
+  background: ;
+}
+
+/* Home Social Icons */
+.tweak-social-icons-style-regular .Header--overlay .SocialLinks-link-icon {
+  fill: ;
+}
+
+.tweak-social-icons-style-regular .Header--overlay .SocialLinks:hover .SocialLinks-link-icon {
+  fill:;
+}
+
+.tweak-social-icons-style-regular .Header--overlay .SocialLinks:hover .SocialLinks-link:hover .SocialLinks-link-icon {
+  fill:;
+}
+
+/* === MOBILE HEADER === */
+#collection-5a03214ff9619a62ab7ab279 header {
+  background: ;
+}
+
+#collection-5a03214ff9619a62ab7ab279 .Header-branding {
+  color: ;
+}
+
+#collection-5a03214ff9619a62ab7ab279 .Header-nav-item a, #collection-5a03214ff9619a62ab7ab279 a.Header-nav-item {
+  color: ;
+}
+
+#collection-5a03214ff9619a62ab7ab279 .Header-nav-item a:hover, #collection-5a03214ff9619a62ab7ab279 a.Header-nav-item:hover {
+  color: ;
+}
+
+/* Mobile Header Social Icons */
+#collection-5a03214ff9619a62ab7ab279.tweak-social-icons-style-regular .SocialLinks-link-icon {
+  fill: ;
+}
+
+#collection-5a03214ff9619a62ab7ab279.tweak-social-icons-style-regular .SocialLinks:hover .SocialLinks-link-icon {
+  fill: ;
+}
+
+#collection-5a03214ff9619a62ab7ab279.tweak-social-icons-style-regular .SocialLinks:hover .SocialLinks-link:hover .SocialLinks-link-icon {
+   fill: ;
+}
+
+/* === WORK SECTION === */
+
+#homepage-work, #work-mobile {
+  background: ;
+  color: ;
+}
+
+#homepage-work hr, #work-mobile hr {
+  background-color: ;
+}
+
+#homepage-work h3, #homepage-work p, #work-mobile h3, #work-mobile p {
+  color: ;
+}
+
+#homepage-work .summary-title-link, #work-mobile .summary-title-link {
+  color: ;
+}
+
+#homepage-work .summary-excerpt a, #work-mobile .summary-excerpt a {
+  color: ;
+}
+
+#homepage-work a, #work-mobile a {
+  color: ;
+  border-bottom: /*2px dotted blue*/ ;
+}
+
+#homepage-work a:hover, #work-mobile a:hover {
+  color: ;
+  border-bottom: /*2px dotted red*/ ;
+}
+
+/* === CONTACT SECTION === */
+
+#contact-index, #contact-mobile {
+  background: ;
+  color: ;
+}
+
+#contact-index hr, #contact-mobile hr {
+  background-color: ;
+}
+
+#contact-index a, #contact-mobile a {
+  color: ;
+  border-bottom: /*2px dotted blue*/;
+}
+
+#contact-index a:hover, #contact-mobile a:hover {
+  color: ;
+  border-bottom: /*2px dotted red*/;
+}
+
+#contact-index .sqs-svg-icon--list a, #contact-mobile .sqs-svg-icon--list a {
+  border-bottom: /*none*/;
+}
+
+/* Contact Social Icons */
+#contact-index .social-icons-color-black.social-icons-style-regular .sqs-use--icon, #contact-mobile .social-icons-color-black.social-icons-style-regular .sqs-use--icon {
+    fill: ;
+}
+
+#contact-index .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-use--icon, #contact-mobile .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-use--icon {
+    fill: ;
+}
+
+#contact-index .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon, #contact-mobile .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon {
+    fill: ;
+}
+
+/* === FOOTER SECTION === */
+
+#collection-59dc312d46c3c48d6778ef29 footer, #collection-5a03214ff9619a62ab7ab279 footer {
+  background: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 footer p, #collection-5a03214ff9619a62ab7ab279 footer p {
+  color: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 footer a, #collection-5a03214ff9619a62ab7ab279 footer a {
+  color: ;
+  border-bottom: /*2px dotted blue*/;
+}
+
+#collection-59dc312d46c3c48d6778ef29 footer a:hover, #collection-5a03214ff9619a62ab7ab279 footer a:hover {
+  color: ;
+  border-bottom: /*2px dotted yellow*/;
+}
+
+#collection-59dc312d46c3c48d6778ef29 footer .sqs-svg-icon--list a, #collection-5a03214ff9619a62ab7ab279 footer .sqs-svg-icon--list a {
+  border-bottom: /*none*/;
+}
+
+/* Footer Social Icons */
+#collection-59dc312d46c3c48d6778ef29 footer .social-icons-color-black.social-icons-style-regular .sqs-use--icon, #collection-5a03214ff9619a62ab7ab279 footer .social-icons-color-black.social-icons-style-regular .sqs-use--icon {
+    fill: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 footer .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-use--icon, #collection-5a03214ff9619a62ab7ab279 footer .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-use--icon {
+    fill: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 footer .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon, #collection-5a03214ff9619a62ab7ab279 footer .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon {
+    fill: ;
+}
+
+/* ==============
+   PROJECT PAGES
+   ============== */
+
+/* Elissa */
+#collection-59ebb25e0abd04fe1a0ca507, #collection-59ebb25e0abd04fe1a0ca507 main, #collection-59ebb25e0abd04fe1a0ca507 header, #collection-59ebb25e0abd04fe1a0ca507 footer, #collection-59ebb25e0abd04fe1a0ca507 .Mobile-bar {
+  background: /*color*/;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 footer {
+  background: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 .Header-branding {
+  color: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 .Header-nav-item {
+  color: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 .Header-nav-item:hover {
+  color: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 .Header-nav-folder-item {
+  color: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 .Header-nav-folder-item:hover {
+  color: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 main h3 {
+  color: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 main h3 a {
+  color: ;
+  border-bottom: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 main h3 a:hover {
+  color: ;
+  border-bottom: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507.tweak-social-icons-style-regular .SocialLinks-link-icon {
+  fill: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507.tweak-social-icons-style-regular .SocialLinks:hover .SocialLinks-link-icon {
+  fill: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507.tweak-social-icons-style-regular .SocialLinks:hover .SocialLinks-link:hover .SocialLinks-link-icon {
+   fill: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 main p {
+  color: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 footer p {
+  color: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 footer a {
+  color: ;
+  border-bottom: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 footer a:hover {
+  color: ;
+  border-bottom: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 .social-icons-color-black.social-icons-style-regular .sqs-use--icon {
+    fill: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-use--icon {
+    fill: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon {
+    fill: ;
+}
+
+/* Production Reel */
+#collection-5900ab723a04117016970610, #collection-5900ab723a04117016970610 main, #collection-5900ab723a04117016970610 header, #collection-5900ab723a04117016970610 footer, #collection-5900ab723a04117016970610 .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Palm Springs */
+#collection-5928a7d98419c2e1ddfdca5d, #collection-5928a7d98419c2e1ddfdca5d main, #collection-5928a7d98419c2e1ddfdca5d header, #collection-5928a7d98419c2e1ddfdca5d footer, #collection-5928a7d98419c2e1ddfdca5d .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Facebook: Artist in Residence */
+#collection-59ecf14ca9db09c8d411140f, #collection-59ecf14ca9db09c8d411140f main, #collection-59ecf14ca9db09c8d411140f header, #collection-59ecf14ca9db09c8d411140f footer, #collection-59ecf14ca9db09c8d411140f .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Marshalls: Spring Campaign */
+#collection-59061f69e58c620309749470, #collection-59061f69e58c620309749470 main, #collection-59061f69e58c620309749470 header, #collection-59061f69e58c620309749470 footer, #collection-59061f69e58c620309749470 .Mobile-bar {
+  background: /*color*/;
+}
+
+/* John Irving */
+#collection-591dfa82197aea7d10caf86b, #collection-591dfa82197aea7d10caf86b main, #collection-591dfa82197aea7d10caf86b header, #collection-591dfa82197aea7d10caf86b footer, #collection-591dfa82197aea7d10caf86b .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Cape Town Kid */
+#collection-59204a6c440243aed83fdc21, #collection-59204a6c440243aed83fdc21 main, #collection-59204a6c440243aed83fdc21 header, #collection-59204a6c440243aed83fdc21 footer, #collection-59204a6c440243aed83fdc21 .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Little Scream */
+#collection-59051985d482e95dce6522e9, #collection-59051985d482e95dce6522e9 main, #collection-59051985d482e95dce6522e9 header, #collection-59051985d482e95dce6522e9 footer, #collection-59051985d482e95dce6522e9 .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Canon M5 */
+#collection-58ff50c5414fb5f5d4e0d6fa, #collection-58ff50c5414fb5f5d4e0d6fa main, #collection-58ff50c5414fb5f5d4e0d6fa header, #collection-58ff50c5414fb5f5d4e0d6fa footer, #collection-58ff50c5414fb5f5d4e0d6fa .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Uluru */
+#collection-591f4e2c1b631b0dc932867a, #collection-591f4e2c1b631b0dc932867a main, #collection-591f4e2c1b631b0dc932867a header, #collection-591f4e2c1b631b0dc932867a footer, #collection-591f4e2c1b631b0dc932867a .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Bicyclette */
+#collection-591f38d9db29d69de7df2501, #collection-591f38d9db29d69de7df2501 main, #collection-591f38d9db29d69de7df2501 header, #collection-591f38d9db29d69de7df2501 footer, #collection-591f38d9db29d69de7df2501 .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Jazz Cartier & Charlotte Cardin */
+#collection-590638c2cd0f68a240224aaf, #collection-590638c2cd0f68a240224aaf main, #collection-590638c2cd0f68a240224aaf header, #collection-590638c2cd0f68a240224aaf footer, #collection-590638c2cd0f68a240224aaf .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Cape Town */
+#collection-593039c3b3db2b8e751c4fdf, #collection-593039c3b3db2b8e751c4fdf main, #collection-593039c3b3db2b8e751c4fdf header, #collection-593039c3b3db2b8e751c4fdf footer, #collection-593039c3b3db2b8e751c4fdf .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Roots: Sweatstyle */
+#collection-59050ccdf5e2319ca12db3fc, #collection-59050ccdf5e2319ca12db3fc main, #collection-59050ccdf5e2319ca12db3fc header, #collection-59050ccdf5e2319ca12db3fc footer, #collection-59050ccdf5e2319ca12db3fc .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Rudsak */
+#collection-59066cdd15d5db2857e4d711, #collection-59066cdd15d5db2857e4d711 main, #collection-59066cdd15d5db2857e4d711 header, #collection-59066cdd15d5db2857e4d711 footer, #collection-59066cdd15d5db2857e4d711 .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Boom, Boom, Boom */
+#collection-591f4bb21b631b0dc9325f6a, #collection-591f4bb21b631b0dc9325f6a main, #collection-591f4bb21b631b0dc9325f6a header, #collection-591f4bb21b631b0dc9325f6a footer, #collection-591f4bb21b631b0dc9325f6a .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Jessy Lanza */
+#collection-591f2abdf7e0abcb5068239b, #collection-591f2abdf7e0abcb5068239b main, #collection-591f2abdf7e0abcb5068239b header, #collection-591f2abdf7e0abcb5068239b footer, #collection-591f2abdf7e0abcb5068239b .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Roots: Autumn */
+#collection-59205416f7e0abdb5849927e, #collection-59205416f7e0abdb5849927e main, #collection-59205416f7e0abdb5849927e header, #collection-59205416f7e0abdb5849927e footer, #collection-59205416f7e0abdb5849927e .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Canon Pixma */
+#collection-590671ba6a496365924de4da, #collection-590671ba6a496365924de4da main, #collection-590671ba6a496365924de4da header, #collection-590671ba6a496365924de4da footer, #collection-590671ba6a496365924de4da .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Roots: Spring Bags */
+#collection-5921dd469f74560189734dc8, #collection-5921dd469f74560189734dc8 main, #collection-5921dd469f74560189734dc8 header, #collection-5921dd469f74560189734dc8 footer, #collection-5921dd469f74560189734dc8 .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Attitude, Belief & Determination */
+#collection-591dfa9dcd0f68bd5a008175, #collection-591dfa9dcd0f68bd5a008175 main, #collection-591dfa9dcd0f68bd5a008175 header, #collection-591dfa9dcd0f68bd5a008175 footer, #collection-591dfa9dcd0f68bd5a008175 .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Roots: Holiday Campaign */
+#collection-59062bbfe58c6203097530f3, #collection-59062bbfe58c6203097530f3 main, #collection-59062bbfe58c6203097530f3 header, #collection-59062bbfe58c6203097530f3 footer, #collection-59062bbfe58c6203097530f3 .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Kit & Ace: Curiosities */
+#collection-591f5287d1758eb812ad0223, #collection-591f5287d1758eb812ad0223 main, #collection-591f5287d1758eb812ad0223 header, #collection-591f5287d1758eb812ad0223 footer, #collection-591f5287d1758eb812ad0223 .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Sonagur */
+#collection-591f3c491b631bcb411e14c7, #collection-591f3c491b631bcb411e14c7 main, #collection-591f3c491b631bcb411e14c7 header, #collection-591f3c491b631bcb411e14c7 footer, #collection-591f3c491b631bcb411e14c7 .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Sweet Jesus */
+#collection-5906755ea5790a97f0ff5112, #collection-5906755ea5790a97f0ff5112 main, #collection-5906755ea5790a97f0ff5112 header, #collection-5906755ea5790a97f0ff5112 footer, #collection-5906755ea5790a97f0ff5112 .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Roots: Spring Campaign */
+#collection-5904e0fe8419c22f9be25400, #collection-5904e0fe8419c22f9be25400 main, #collection-5904e0fe8419c22f9be25400 header, #collection-5904e0fe8419c22f9be25400 footer, #collection-5904e0fe8419c22f9be25400 .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Marshalls: Fall Campaign */
+#collection-591f55401b631b50aaec5b61, #collection-591f55401b631b50aaec5b61 main, #collection-591f55401b631b50aaec5b61 header, #collection-591f55401b631b50aaec5b61 footer, #collection-591f55401b631b50aaec5b61 .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Negev Desert */
+#collection-591f4541d1758e7ccaf6de22, #collection-591f4541d1758e7ccaf6de22 main, #collection-591f4541d1758e7ccaf6de22 header, #collection-591f4541d1758e7ccaf6de22 footer, #collection-591f4541d1758e7ccaf6de22 .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Roots: Retro */
+#collection-59237869d2b8575d12766d6f, #collection-59237869d2b8575d12766d6f main, #collection-59237869d2b8575d12766d6f header, #collection-59237869d2b8575d12766d6f footer, #collection-59237869d2b8575d12766d6f .Mobile-bar {
+  background: /*color*/;
+}
+
+/* Callum Schuster */
+#collection-5946a2adbe65940bfee32d8f, #collection-5946a2adbe65940bfee32d8f main, #collection-5946a2adbe65940bfee32d8f header, #collection-5946a2adbe65940bfee32d8f footer, #collection-5946a2adbe65940bfee32d8f .Mobile-bar {
+  background: /*color*/;
+}

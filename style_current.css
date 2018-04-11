@@ -203,35 +203,280 @@ body, p {
        opacity: 1 !important;
  }
 
-/* ==============
-   INDEX SECTIONS
-   ============== */
+/* === TEST INDEX === */
 
-/* Background */
-#collection-59dc312d46c3c48d6778ef29, #collection-5a03214ff9619a62ab7ab279 {
-  background: ;
-}
-
-/* === HOME SECTION === */
-
-#hero-banner {
-  background: ;
-}
-
-/* Home Social Icons */
-.tweak-social-icons-style-regular .Header--overlay .SocialLinks-link-icon {
+/* Header Social Icons */
+#collection-5ab318c1352f534840f96aa0 .SocialLinks-link-icon {
   fill: ;
 }
 
-.tweak-social-icons-style-regular .Header--overlay .SocialLinks:hover .SocialLinks-link-icon {
-  fill:;
+#collection-5ab318c1352f534840f96aa0 .SocialLinks:hover .SocialLinks-link-icon {
+  fill: ;
 }
 
-.tweak-social-icons-style-regular .Header--overlay .SocialLinks:hover .SocialLinks-link:hover .SocialLinks-link-icon {
-  fill:;
+#collection-5ab318c1352f534840f96aa0 .SocialLinks:hover .SocialLinks-link:hover .SocialLinks-link-icon {
+  fill: ;
 }
 
-/* === MOBILE HEADER === */
+/* Navigation */
+#collection-5ab318c1352f534840f96aa0 .Header-nav-item a, #collection-5ab318c1352f534840f96aa0 a.Header-nav-item {
+  color: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 .Header-nav-item a:hover, #collection-5ab318c1352f534840f96aa0 a.Header-nav-item:hover {
+  color: ;
+}
+
+/* Header h1 */
+#collection-5ab318c1352f534840f96aa0 h1.text-align-center {
+  color: ;
+}
+
+/* Test-01 Section */
+#collection-5ab318c1352f534840f96aa0 #test-01 {
+  background: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 #test-01 p {
+  color: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 #test-01 h1 {
+  color: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 #test-01 h2 {
+  color: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 #test-01 h3 {
+  color: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 #test-01 a {
+  color: ;
+  border-bottom: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 #test-01 a:hover {
+  color: ;
+  border-bottom: ;
+}
+
+/* Test-02 Section */
+#collection-5ab318c1352f534840f96aa0 #test-02 {
+  background: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 #test-02 p {
+  color: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 #test-02 h1 {
+  color: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 #test-02 h2 {
+  color: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 #test-02 h3 {
+  color: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 #test-02 a {
+  color: ;
+  border-bottom: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 #test-02 a:hover {
+  color: ;
+  border-bottom: ;
+}
+
+/* Footer Section */
+#collection-5ab318c1352f534840f96aa0 footer {
+  background: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 footer p {
+  color: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 footer a {
+  color: ;
+  border-bottom: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 footer a:hover {
+  color: ;
+  border-bottom: ;
+}
+
+/* Footer Social Icons */
+#collection-5ab318c1352f534840f96aa0 .sqs-use--icon {
+  fill: ;
+}
+
+#collection-5ab318c1352f534840f96aa0  .sqs-svg-icon--list:hover .sqs-use--icon {
+  fill: ;
+}
+
+#collection-5ab318c1352f534840f96aa0 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon {
+  fill: ;
+}
+
+/* === HOME INDEX === */
+#collection-59dc312d46c3c48d6778ef29 {
+  background: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 #hero-banner {
+  background: ;
+}
+
+/* Header Social Icons */
+#collection-59dc312d46c3c48d6778ef29 .SocialLinks-link-icon {
+  fill: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 .SocialLinks:hover .SocialLinks-link-icon {
+  fill: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 .SocialLinks:hover .SocialLinks-link:hover .SocialLinks-link-icon {
+  fill: ;
+}
+
+/* Navigation */
+#collection-59dc312d46c3c48d6778ef29 .Header-nav-item a, #collection-59dc312d46c3c48d6778ef29 a.Header-nav-item {
+  color: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 .Header-nav-item a:hover, #collection-59dc312d46c3c48d6778ef29 a.Header-nav-item:hover {
+  color: ;
+}
+
+/* Header h1 */
+#collection-59dc312d46c3c48d6778ef29 h1.text-align-center {
+  color: ;
+}
+
+/* Work Section */
+#collection-59dc312d46c3c48d6778ef29 #homepage-work {
+  background: ;
+  color: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 #homepage-work hr {
+  background-color: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 #homepage-work h3 {
+  color: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 #homepage-work p {
+  color: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 #homepage-work .summary-title-link {
+  color: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 #homepage-work .summary-excerpt a {
+  color: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 #homepage-work a {
+  color: ;
+  border-bottom: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 #homepage-work a:hover {
+  color: ;
+  border-bottom: ;
+}
+
+/* Contact Section */
+#collection-59dc312d46c3c48d6778ef29 #contact-index {
+  background: ;
+  color: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 #contact-index hr {
+  background-color: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 #contact-index a {
+  color: ;
+  border-bottom: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 #contact-index a:hover {
+  color: ;
+  border-bottom: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 #contact-index .sqs-svg-icon--list a {
+  border-bottom: ;
+}
+
+/* Contact Social Icons */
+#collection-59dc312d46c3c48d6778ef29 #contact-index .sqs-use--icon {
+  fill: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 #contact-index .sqs-svg-icon--list:hover .sqs-use--icon {
+  fill: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 #contact-index .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon {
+  fill: ;
+}
+
+/* Footer Section */
+#collection-59dc312d46c3c48d6778ef29 footer {
+  background: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 footer p {
+  color: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 footer a {
+  color: ;
+  border-bottom: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 footer a:hover {
+  color: ;
+  border-bottom: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 footer .sqs-svg-icon--list a {
+  border-bottom: none;
+}
+
+/* Footer Social Icons */
+#collection-59dc312d46c3c48d6778ef29 footer .sqs-use--icon {
+  fill: ;
+}
+
+#collection-59dc312d46c3c48d6778ef29 footer .sqs-svg-icon--list:hover .sqs-use--icon {
+  fill: ;
+}
+
+ #collection-59dc312d46c3c48d6778ef29 footer .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon {
+  fill: ;
+}
+
+/* === MOBILE INDEX === */
+#collection-5a03214ff9619a62ab7ab279 {
+  background: ;
+}
+
+/* Header */
 #collection-5a03214ff9619a62ab7ab279 header {
   background: ;
 }
@@ -248,7 +493,7 @@ body, p {
   color: ;
 }
 
-/* Mobile Header Social Icons */
+/* Header Social Icons */
 #collection-5a03214ff9619a62ab7ab279.tweak-social-icons-style-regular .SocialLinks-link-icon {
   fill: ;
 }
@@ -258,124 +503,123 @@ body, p {
 }
 
 #collection-5a03214ff9619a62ab7ab279.tweak-social-icons-style-regular .SocialLinks:hover .SocialLinks-link:hover .SocialLinks-link-icon {
-   fill: ;
+  fill: ;
 }
 
-/* === WORK SECTION === */
-
-#homepage-work, #work-mobile {
+/* Work Section */
+#collection-5a03214ff9619a62ab7ab279 #work-mobile {
   background: ;
   color: ;
 }
 
-#homepage-work hr, #work-mobile hr {
+#collection-5a03214ff9619a62ab7ab279 #work-mobile hr {
   background-color: ;
 }
 
-#homepage-work h3, #homepage-work p, #work-mobile h3, #work-mobile p {
+#collection-5a03214ff9619a62ab7ab279 #work-mobile h3 {
   color: ;
 }
 
-#homepage-work .summary-title-link, #work-mobile .summary-title-link {
+#collection-5a03214ff9619a62ab7ab279 #work-mobile p {
   color: ;
 }
 
-#homepage-work .summary-excerpt a, #work-mobile .summary-excerpt a {
+#collection-5a03214ff9619a62ab7ab279 #work-mobile .summary-title-link {
   color: ;
 }
 
-#homepage-work a, #work-mobile a {
+#collection-5a03214ff9619a62ab7ab279 #work-mobile .summary-excerpt a {
   color: ;
-  border-bottom: /*2px dotted blue*/ ;
 }
 
-#homepage-work a:hover, #work-mobile a:hover {
+#collection-5a03214ff9619a62ab7ab279 #work-mobile a {
   color: ;
-  border-bottom: /*2px dotted red*/ ;
+  border-bottom:  ;
 }
 
-/* === CONTACT SECTION === */
+#collection-5a03214ff9619a62ab7ab279 #work-mobile a:hover {
+  color: ;
+  border-bottom:  ;
+}
 
-#contact-index, #contact-mobile {
+/* Contact Section */
+#collection-5a03214ff9619a62ab7ab279 #contact-mobile {
   background: ;
   color: ;
 }
 
-#contact-index hr, #contact-mobile hr {
+#collection-5a03214ff9619a62ab7ab279 #contact-mobile hr {
   background-color: ;
 }
 
-#contact-index a, #contact-mobile a {
+#collection-5a03214ff9619a62ab7ab279 #contact-mobile a {
   color: ;
-  border-bottom: /*2px dotted blue*/;
+  border-bottom: ;
 }
 
-#contact-index a:hover, #contact-mobile a:hover {
+#collection-5a03214ff9619a62ab7ab279 #contact-mobile a:hover {
   color: ;
-  border-bottom: /*2px dotted red*/;
+  border-bottom: ;
 }
 
-#contact-index .sqs-svg-icon--list a, #contact-mobile .sqs-svg-icon--list a {
-  border-bottom: /*none*/;
+#collection-5a03214ff9619a62ab7ab279 #contact-mobile .sqs-svg-icon--list a {
+  border-bottom: ;
 }
 
 /* Contact Social Icons */
-#contact-index .social-icons-color-black.social-icons-style-regular .sqs-use--icon, #contact-mobile .social-icons-color-black.social-icons-style-regular .sqs-use--icon {
-    fill: ;
+#collection-5a03214ff9619a62ab7ab279 #contact-mobile .sqs-use--icon {
+  fill: ;
 }
 
-#contact-index .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-use--icon, #contact-mobile .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-use--icon {
-    fill: ;
+#collection-5a03214ff9619a62ab7ab279 #contact-mobile .sqs-svg-icon--list:hover .sqs-use--icon {
+  fill: ;
 }
 
-#contact-index .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon, #contact-mobile .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon {
-    fill: ;
+#collection-5a03214ff9619a62ab7ab279 #contact-mobile .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon {
+  fill: ;
 }
 
-/* === FOOTER SECTION === */
-
-#collection-59dc312d46c3c48d6778ef29 footer, #collection-5a03214ff9619a62ab7ab279 footer {
+/* Footer Section */
+#collection-5a03214ff9619a62ab7ab279 footer {
   background: ;
 }
 
-#collection-59dc312d46c3c48d6778ef29 footer p, #collection-5a03214ff9619a62ab7ab279 footer p {
+#collection-5a03214ff9619a62ab7ab279 footer p {
   color: ;
 }
 
-#collection-59dc312d46c3c48d6778ef29 footer a, #collection-5a03214ff9619a62ab7ab279 footer a {
+#collection-5a03214ff9619a62ab7ab279 footer a {
   color: ;
-  border-bottom: /*2px dotted blue*/;
+  border-bottom: ;
 }
 
-#collection-59dc312d46c3c48d6778ef29 footer a:hover, #collection-5a03214ff9619a62ab7ab279 footer a:hover {
+#collection-5a03214ff9619a62ab7ab279 footer a:hover {
   color: ;
-  border-bottom: /*2px dotted yellow*/;
+  border-bottom: ;
 }
 
-#collection-59dc312d46c3c48d6778ef29 footer .sqs-svg-icon--list a, #collection-5a03214ff9619a62ab7ab279 footer .sqs-svg-icon--list a {
-  border-bottom: /*none*/;
+#collection-5a03214ff9619a62ab7ab279 footer .sqs-svg-icon--list a {
+  border-bottom: ;
 }
 
 /* Footer Social Icons */
-#collection-59dc312d46c3c48d6778ef29 footer .social-icons-color-black.social-icons-style-regular .sqs-use--icon, #collection-5a03214ff9619a62ab7ab279 footer .social-icons-color-black.social-icons-style-regular .sqs-use--icon {
-    fill: ;
+#collection-5a03214ff9619a62ab7ab279 footer .sqs-use--icon {
+  fill: ;
 }
 
-#collection-59dc312d46c3c48d6778ef29 footer .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-use--icon, #collection-5a03214ff9619a62ab7ab279 footer .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-use--icon {
-    fill: ;
+#collection-5a03214ff9619a62ab7ab279 footer .sqs-svg-icon--list:hover .sqs-use--icon {
+  fill: ;
 }
 
-#collection-59dc312d46c3c48d6778ef29 footer .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon, #collection-5a03214ff9619a62ab7ab279 footer .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon {
-    fill: ;
+#collection-5a03214ff9619a62ab7ab279 footer .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon {
+  fill: ;
 }
 
-/* ==============
-   PROJECT PAGES
-   ============== */
+/* === PROJECT PAGES === */
 
 /* Elissa */
 #collection-59ebb25e0abd04fe1a0ca507, #collection-59ebb25e0abd04fe1a0ca507 main, #collection-59ebb25e0abd04fe1a0ca507 header, #collection-59ebb25e0abd04fe1a0ca507 footer, #collection-59ebb25e0abd04fe1a0ca507 .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 #collection-59ebb25e0abd04fe1a0ca507 footer {
@@ -402,6 +646,18 @@ body, p {
   color: ;
 }
 
+#collection-59ebb25e0abd04fe1a0ca507 .SocialLinks-link-icon {
+  fill: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 .SocialLinks:hover .SocialLinks-link-icon {
+  fill: ;
+}
+
+#collection-59ebb25e0abd04fe1a0ca507 .SocialLinks:hover .SocialLinks-link:hover .SocialLinks-link-icon {
+   fill: ;
+}
+
 #collection-59ebb25e0abd04fe1a0ca507 main h3 {
   color: ;
 }
@@ -414,18 +670,6 @@ body, p {
 #collection-59ebb25e0abd04fe1a0ca507 main h3 a:hover {
   color: ;
   border-bottom: ;
-}
-
-#collection-59ebb25e0abd04fe1a0ca507.tweak-social-icons-style-regular .SocialLinks-link-icon {
-  fill: ;
-}
-
-#collection-59ebb25e0abd04fe1a0ca507.tweak-social-icons-style-regular .SocialLinks:hover .SocialLinks-link-icon {
-  fill: ;
-}
-
-#collection-59ebb25e0abd04fe1a0ca507.tweak-social-icons-style-regular .SocialLinks:hover .SocialLinks-link:hover .SocialLinks-link-icon {
-   fill: ;
 }
 
 #collection-59ebb25e0abd04fe1a0ca507 main p {
@@ -446,159 +690,159 @@ body, p {
   border-bottom: ;
 }
 
-#collection-59ebb25e0abd04fe1a0ca507 .social-icons-color-black.social-icons-style-regular .sqs-use--icon {
+#collection-59ebb25e0abd04fe1a0ca507 .sqs-use--icon {
     fill: ;
 }
 
-#collection-59ebb25e0abd04fe1a0ca507 .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-use--icon {
+#collection-59ebb25e0abd04fe1a0ca507 .sqs-svg-icon--list:hover .sqs-use--icon {
     fill: ;
 }
 
-#collection-59ebb25e0abd04fe1a0ca507 .social-icons-color-black.social-icons-style-regular .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon {
+#collection-59ebb25e0abd04fe1a0ca507 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon {
     fill: ;
 }
 
 /* Production Reel */
 #collection-5900ab723a04117016970610, #collection-5900ab723a04117016970610 main, #collection-5900ab723a04117016970610 header, #collection-5900ab723a04117016970610 footer, #collection-5900ab723a04117016970610 .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Palm Springs */
 #collection-5928a7d98419c2e1ddfdca5d, #collection-5928a7d98419c2e1ddfdca5d main, #collection-5928a7d98419c2e1ddfdca5d header, #collection-5928a7d98419c2e1ddfdca5d footer, #collection-5928a7d98419c2e1ddfdca5d .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Facebook: Artist in Residence */
 #collection-59ecf14ca9db09c8d411140f, #collection-59ecf14ca9db09c8d411140f main, #collection-59ecf14ca9db09c8d411140f header, #collection-59ecf14ca9db09c8d411140f footer, #collection-59ecf14ca9db09c8d411140f .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Marshalls: Spring Campaign */
 #collection-59061f69e58c620309749470, #collection-59061f69e58c620309749470 main, #collection-59061f69e58c620309749470 header, #collection-59061f69e58c620309749470 footer, #collection-59061f69e58c620309749470 .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* John Irving */
 #collection-591dfa82197aea7d10caf86b, #collection-591dfa82197aea7d10caf86b main, #collection-591dfa82197aea7d10caf86b header, #collection-591dfa82197aea7d10caf86b footer, #collection-591dfa82197aea7d10caf86b .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Cape Town Kid */
 #collection-59204a6c440243aed83fdc21, #collection-59204a6c440243aed83fdc21 main, #collection-59204a6c440243aed83fdc21 header, #collection-59204a6c440243aed83fdc21 footer, #collection-59204a6c440243aed83fdc21 .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Little Scream */
 #collection-59051985d482e95dce6522e9, #collection-59051985d482e95dce6522e9 main, #collection-59051985d482e95dce6522e9 header, #collection-59051985d482e95dce6522e9 footer, #collection-59051985d482e95dce6522e9 .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Canon M5 */
 #collection-58ff50c5414fb5f5d4e0d6fa, #collection-58ff50c5414fb5f5d4e0d6fa main, #collection-58ff50c5414fb5f5d4e0d6fa header, #collection-58ff50c5414fb5f5d4e0d6fa footer, #collection-58ff50c5414fb5f5d4e0d6fa .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Uluru */
 #collection-591f4e2c1b631b0dc932867a, #collection-591f4e2c1b631b0dc932867a main, #collection-591f4e2c1b631b0dc932867a header, #collection-591f4e2c1b631b0dc932867a footer, #collection-591f4e2c1b631b0dc932867a .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Bicyclette */
 #collection-591f38d9db29d69de7df2501, #collection-591f38d9db29d69de7df2501 main, #collection-591f38d9db29d69de7df2501 header, #collection-591f38d9db29d69de7df2501 footer, #collection-591f38d9db29d69de7df2501 .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Jazz Cartier & Charlotte Cardin */
 #collection-590638c2cd0f68a240224aaf, #collection-590638c2cd0f68a240224aaf main, #collection-590638c2cd0f68a240224aaf header, #collection-590638c2cd0f68a240224aaf footer, #collection-590638c2cd0f68a240224aaf .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Cape Town */
 #collection-593039c3b3db2b8e751c4fdf, #collection-593039c3b3db2b8e751c4fdf main, #collection-593039c3b3db2b8e751c4fdf header, #collection-593039c3b3db2b8e751c4fdf footer, #collection-593039c3b3db2b8e751c4fdf .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Roots: Sweatstyle */
 #collection-59050ccdf5e2319ca12db3fc, #collection-59050ccdf5e2319ca12db3fc main, #collection-59050ccdf5e2319ca12db3fc header, #collection-59050ccdf5e2319ca12db3fc footer, #collection-59050ccdf5e2319ca12db3fc .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Rudsak */
 #collection-59066cdd15d5db2857e4d711, #collection-59066cdd15d5db2857e4d711 main, #collection-59066cdd15d5db2857e4d711 header, #collection-59066cdd15d5db2857e4d711 footer, #collection-59066cdd15d5db2857e4d711 .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Boom, Boom, Boom */
 #collection-591f4bb21b631b0dc9325f6a, #collection-591f4bb21b631b0dc9325f6a main, #collection-591f4bb21b631b0dc9325f6a header, #collection-591f4bb21b631b0dc9325f6a footer, #collection-591f4bb21b631b0dc9325f6a .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Jessy Lanza */
 #collection-591f2abdf7e0abcb5068239b, #collection-591f2abdf7e0abcb5068239b main, #collection-591f2abdf7e0abcb5068239b header, #collection-591f2abdf7e0abcb5068239b footer, #collection-591f2abdf7e0abcb5068239b .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Roots: Autumn */
 #collection-59205416f7e0abdb5849927e, #collection-59205416f7e0abdb5849927e main, #collection-59205416f7e0abdb5849927e header, #collection-59205416f7e0abdb5849927e footer, #collection-59205416f7e0abdb5849927e .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Canon Pixma */
 #collection-590671ba6a496365924de4da, #collection-590671ba6a496365924de4da main, #collection-590671ba6a496365924de4da header, #collection-590671ba6a496365924de4da footer, #collection-590671ba6a496365924de4da .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Roots: Spring Bags */
 #collection-5921dd469f74560189734dc8, #collection-5921dd469f74560189734dc8 main, #collection-5921dd469f74560189734dc8 header, #collection-5921dd469f74560189734dc8 footer, #collection-5921dd469f74560189734dc8 .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Attitude, Belief & Determination */
 #collection-591dfa9dcd0f68bd5a008175, #collection-591dfa9dcd0f68bd5a008175 main, #collection-591dfa9dcd0f68bd5a008175 header, #collection-591dfa9dcd0f68bd5a008175 footer, #collection-591dfa9dcd0f68bd5a008175 .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Roots: Holiday Campaign */
 #collection-59062bbfe58c6203097530f3, #collection-59062bbfe58c6203097530f3 main, #collection-59062bbfe58c6203097530f3 header, #collection-59062bbfe58c6203097530f3 footer, #collection-59062bbfe58c6203097530f3 .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Kit & Ace: Curiosities */
 #collection-591f5287d1758eb812ad0223, #collection-591f5287d1758eb812ad0223 main, #collection-591f5287d1758eb812ad0223 header, #collection-591f5287d1758eb812ad0223 footer, #collection-591f5287d1758eb812ad0223 .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Sonagur */
 #collection-591f3c491b631bcb411e14c7, #collection-591f3c491b631bcb411e14c7 main, #collection-591f3c491b631bcb411e14c7 header, #collection-591f3c491b631bcb411e14c7 footer, #collection-591f3c491b631bcb411e14c7 .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Sweet Jesus */
 #collection-5906755ea5790a97f0ff5112, #collection-5906755ea5790a97f0ff5112 main, #collection-5906755ea5790a97f0ff5112 header, #collection-5906755ea5790a97f0ff5112 footer, #collection-5906755ea5790a97f0ff5112 .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Roots: Spring Campaign */
 #collection-5904e0fe8419c22f9be25400, #collection-5904e0fe8419c22f9be25400 main, #collection-5904e0fe8419c22f9be25400 header, #collection-5904e0fe8419c22f9be25400 footer, #collection-5904e0fe8419c22f9be25400 .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Marshalls: Fall Campaign */
 #collection-591f55401b631b50aaec5b61, #collection-591f55401b631b50aaec5b61 main, #collection-591f55401b631b50aaec5b61 header, #collection-591f55401b631b50aaec5b61 footer, #collection-591f55401b631b50aaec5b61 .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Negev Desert */
 #collection-591f4541d1758e7ccaf6de22, #collection-591f4541d1758e7ccaf6de22 main, #collection-591f4541d1758e7ccaf6de22 header, #collection-591f4541d1758e7ccaf6de22 footer, #collection-591f4541d1758e7ccaf6de22 .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Roots: Retro */
 #collection-59237869d2b8575d12766d6f, #collection-59237869d2b8575d12766d6f main, #collection-59237869d2b8575d12766d6f header, #collection-59237869d2b8575d12766d6f footer, #collection-59237869d2b8575d12766d6f .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }
 
 /* Callum Schuster */
 #collection-5946a2adbe65940bfee32d8f, #collection-5946a2adbe65940bfee32d8f main, #collection-5946a2adbe65940bfee32d8f header, #collection-5946a2adbe65940bfee32d8f footer, #collection-5946a2adbe65940bfee32d8f .Mobile-bar {
-  background: /*color*/;
+  background: ;
 }

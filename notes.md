@@ -7,12 +7,12 @@ The custom CSS is separated into these blocks of code:
 * `Mobile Index`
 * `Project Pages`
 
-### Style a new index page:
+## Style a new index page:
 1. Copy and paste the `Test Index` block of code.
 2. Replace `#collection-5ab318c1352f534840f96aa0` with the collection ID number of the new index page for each CSS rule.
- * Right click anywhere on the page in the web browser
- * View page source
- * Cmd+F search for "body id"
+  * Right click anywhere on the page in the web browser
+  * View page source
+  * Cmd+F search for "body id"
 3. Replace any instance of `#test-01` and `#test-02` with different section ID names.
  * Go to "Pages" on your dashboard
  * Click the gear icon next to the page
@@ -25,12 +25,12 @@ There are some CSS rules defined in the `Home Index` and `Mobile Index` blocks o
 
 You can also right click any element in the web browser and select "Inspect" to see the code for that element.
 
-### Style a new project page:
+## Style a new project page:
 1. Copy and paste the `Elisa` block of code.
 2. Replace `#collection-59ebb25e0abd04fe1a0ca507` with the collection ID number of the new project page for each CSS rule.
- * Right click anywhere on the page in the web browser
- * View page source
- * Cmd+F search for "body id"
+  * Right click anywhere on the page in the web browser
+  * View page source
+  * Cmd+F search for "body id"
 3. Leave any selector that follows the collection ID unchanged.
 4. Plug in CSS property values.
 
@@ -47,13 +47,13 @@ All but one type of custom CSS rule control color:
 
 You can declare color a few different ways:
 1. Hexadecimal code:
- - `background: #ff000;`
+  * `background: #ff000;`
 2. RGBA (red green blue alpha):
- - `background: rgba(255,0,0,1);` (the alpha value controls opacity and ranges from 0-1)
+  * `background: rgba(255,0,0,1);` (the alpha value controls opacity and ranges from 0-1)
 3. HSL (hue saturation lightness):
- - `background: (0, 100%, 50%);`
+  * `background: (0, 100%, 50%);`
 4. Color name:
- - `background: red;`
+  * `background: red;`
 
 You can grab all those value types from the Photoshop color picker.
 Here's a reference: <https://www.w3schools.com/cssref/css_colors_legal.asp>
